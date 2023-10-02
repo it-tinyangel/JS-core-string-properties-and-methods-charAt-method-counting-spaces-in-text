@@ -1,4 +1,4 @@
-# Module 3. JS Core. Lesson 8. Test 1 (vol. 1).
+# Module 3. JS Core. Lesson 8. Test 1 (v. 1).
 
 # charAt() Method of String. Counting the number of spaces in the inputted text.
 
